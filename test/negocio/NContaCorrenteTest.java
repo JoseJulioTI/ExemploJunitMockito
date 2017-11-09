@@ -8,7 +8,6 @@ public class NContaCorrenteTest {
     
     public NContaCorrenteTest() { }
 
-
     @Test
     public void casoDeTeste05_CriacaoContaSaldo10_Deposita30() {
         System.out.println(" Teste - criar conta com saldo 10 e depositar 30");

@@ -8,17 +8,6 @@ import static org.junit.Assert.*;
 public class EContaCorrenteTest {
     
     public EContaCorrenteTest() { }
-
-//    @Test
-//    public void testGetSaldo() {
-//        System.out.println("getSaldo");
-//        EContaCorrente instance = new EContaCorrente();
-//        Double expResult = null;
-//        Double result = instance.getSaldo();
-//        assertEquals(expResult, result);
-//        // TODO review the generated test code and remove the default call to fail.
-//        fail("The test case is a prototype.");
-//    }
     
     @Test
     public void casoDeTeste01_CriacaoContaIgual_0() {

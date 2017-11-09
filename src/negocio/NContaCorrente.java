@@ -1,8 +1,6 @@
-
 package negocio;
 
 import entidade.EContaCorrente;
-
 
 public class NContaCorrente {
     EContaCorrente conta;

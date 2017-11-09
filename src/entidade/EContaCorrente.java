@@ -1,6 +1,5 @@
 package entidade;
 
-
 public class EContaCorrente {
     private Double saldo = 0.0;
 
@@ -10,8 +9,6 @@ public class EContaCorrente {
         this.saldo = saldo;
     }
 
-    
-    
     public Double getSaldo() {
         return saldo;
     }
